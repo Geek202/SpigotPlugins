@@ -55,4 +55,3 @@ Does the same as the previous option but for blacklist events instead
 | chatministrator.       | /cmblacklistadd    | Allows the player to add words to the blacklist                                                                      |
 | chatministrator.       | /cmblacklistremove | Allows the player to remove words from the blacklist.                                                                |
 | chatministrator.reload | /cmreload          | Allows the player to reload from the config.                                                                         |
-```
