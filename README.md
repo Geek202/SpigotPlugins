@@ -1,7 +1,11 @@
 
-# Tom_The_Geek's Plugins Website
+# Tom_The_Geek's Spigot Plugins
 
 This is the official for my SpigotMC plugins
+
+## A Quick Note
+
+The plugins will be split into seperate pages at some point but for now I can only list them in one page. All documentation for each will also be available through its wiki on the GitHub repo
 
 ## ChatMinistrator
 ### Features
