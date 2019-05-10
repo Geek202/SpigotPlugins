@@ -5,7 +5,7 @@ This is the official for my SpigotMC plugins
 
 ## A Quick Note
 
-The plugins will be split into seperate pages at some point but for now I can only list them in one page. All documentation for each will also be available through its wiki on the GitHub repo
+The plugins will be split into seperate pages at some point but for now I can only list them in one page. All documentation for each will also be available through its wiki on the GitHub repo. Also, these plugins were originally written for a currently WIP server called The Mapex. I have decided to release the source code on GitHub now and the compiled plugins will be available on the SpigotMC website and the Bukkit dev site when the server releases.
 
 ## ChatMinistrator
 ### Features
