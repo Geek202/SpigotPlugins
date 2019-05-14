@@ -2,6 +2,7 @@
 # Tom_The_Geek's Spigot Plugins
 
 This is the official for my SpigotMC plugins
+Quick link to the mapex changelog [here](https://geek202.github.io/MapexChangelog/)
 
 ## A Quick Note
 
@@ -62,3 +63,4 @@ Does the same as the previous option but for blacklist events instead
 
 ## WIP Plugins
 I am currently working on a few plugins 
+kedit.io/).
